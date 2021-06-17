@@ -7,7 +7,7 @@ Tips and best practice for building and curating databases for comparative analy
 Manuscript will be submitted to the Journal of Experimental Biology's special issue "Building New Paradigms in Comparative Physiology and Biomechanics".
 
 **Raw data**
-- xxxxx.csv - JEB meta-data used for figure production.
+- JEB_data.csv - JEB meta-data used for figure production.
 
 **R code**
 - JEB_commentary_figure.R - Data cleaning, and figure production.
