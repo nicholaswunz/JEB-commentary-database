@@ -19,9 +19,13 @@ To include
 Number of papers published yearly, grouped by 5 categories: (1) meta-analyses, (2) comparative literature reviews, (3) systematic reviews, (4) comparative data articles, and (5) phylogenetic comparative articles. Description for each category as below:
 
 (1) meta-analyses - Studies with formal statistical analysis and conducted systematic search following PRISMA;
+
 (2) comparative literature reviews - Reviews with no formal analysis and no systematic search criteria (e.g., PRISMA);
+
 (3) systematic reviews - Reviews with no formal analysis, but conducted a systematic search following PRISMA;
+
 (4) comparative data articles – Studies with formal statistical analysis, but no systematic search criteria (e.g., PRISMA);
+
 (5) phylogenetic comparative articles – Similar to comparative data articles, with the inclusion of phylogenetic analysis.
 
 
