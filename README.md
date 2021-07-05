@@ -12,6 +12,10 @@ Manuscript will be submitted to the Journal of Experimental Biology's special is
 **R code**
 - JEB_commentary_figure.R - Data cleaning, and figure production.
 
+**Figure output**
+- Fig 1a - Database flowchat.
+- Fig 1b - Publication year.
+
 ## Abstract
 To include
 
