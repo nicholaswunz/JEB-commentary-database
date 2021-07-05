@@ -1,3 +1,11 @@
+# JEB commentary database
+
+This repository contains code and data needed to reproduce the figures in the article:
+
+Tips and best practice for building and curating databases for comparative analyses (in submission) *Journal of Experimental Biology*
+
+Manuscript will be submitted to the Journal of Experimental Biology's special issue "*Building New Paradigms in Comparative Physiology and Biomechanics*".
+
 **Raw data**
 - JEB_data.csv - JEB meta-data used for figure production.
 
@@ -12,7 +20,7 @@
 To include
 
 ## Meta-data
-Number of papers published yearly (Jan 2014 - July 2021), grouped by 5 categories: (1) meta-analyses, (2) comparative literature reviews, (3) systematic reviews, (4) comparative data articles, and (5) phylogenetic comparative articles. Description for each category as below:
+Number of papers published yearly (Jan 2014 - July 2021), grouped by 5 categories: (1) meta-analyses, (2) comparative literature reviews, (3) systematic reviews, (4) comparative data articles, and (5) phylogenetic comparative articles. All categories involve collecting data from the literature or existing databases. Description for each category as below:
 
 (1) **meta-analyses** – Studies with formal statistical analysis and conducted systematic search following PRISMA or description of search criteria;
 
@@ -28,7 +36,7 @@ Number of papers published yearly (Jan 2014 - July 2021), grouped by 5 categorie
 - Simulation studies with no data obtained from the literature.
 - Experimental studies with a component of comparative studies.
 - Editorial comments.
-
+- Phylogenetic comparison with no detail on analysis, or reviews which use/adapted phylogenetic trees from other studies. 
 
 ## Journals included
 - Behavioural Ecology
