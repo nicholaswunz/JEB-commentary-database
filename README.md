@@ -36,7 +36,8 @@ Number of papers published yearly (Jan 2014 - July 2021), grouped by 5 categorie
 - Simulation studies with no data obtained from the literature.
 - Experimental studies with a component of comparative studies.
 - Editorial comments.
-- Phylogenetic comparison with no detail on analysis, or reviews which use/adapted phylogenetic trees from other studies. 
+- Phylogenetic comparison with no formal analysis, or reviews which use/adapted phylogenetic trees from other studies. 
+- Methodology papers
 
 ## Journals included
 - Behavioural Ecology
