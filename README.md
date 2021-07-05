@@ -4,7 +4,7 @@ This repository contains code and data needed to reproduce the figures in the ar
 
 Tips and best practice for building and curating databases for comparative analyses (in submission) *Journal of Experimental Biology*
 
-Manuscript will be submitted to the Journal of Experimental Biology's special issue "Building New Paradigms in Comparative Physiology and Biomechanics".
+Manuscript will be submitted to the Journal of Experimental Biology's special issue "*Building New Paradigms in Comparative Physiology and Biomechanics*".
 
 **Raw data**
 - JEB_data.csv - JEB meta-data used for figure production.
