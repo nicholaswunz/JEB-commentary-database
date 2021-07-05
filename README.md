@@ -16,7 +16,7 @@ Manuscript will be submitted to the Journal of Experimental Biology's special is
 To include
 
 ## Meta-data
-Number of papers published yearly, grouped by 5 categories: (1) meta-analyses, (2) comparative literature reviews, (3) systematic reviews, (4) comparative data articles, and (5) phylogenetic comparative articles. Description for each category as below:
+Number of papers published yearly (Jan 2014 - July 2021), grouped by 5 categories: (1) meta-analyses, (2) comparative literature reviews, (3) systematic reviews, (4) comparative data articles, and (5) phylogenetic comparative articles. Description for each category as below:
 
 (1) meta-analyses - Studies with formal statistical analysis and conducted systematic search following PRISMA;
 
@@ -28,4 +28,10 @@ Number of papers published yearly, grouped by 5 categories: (1) meta-analyses, (
 
 (5) phylogenetic comparative articles – Similar to comparative data articles, with the inclusion of phylogenetic analysis.
 
-
+## Journals included
+- Behavioural Ecology
+- Comparative Physiology
+- Journal of Comparative Physiology A
+- Journal of Comparative Physiology B
+- Journal of Experimental Biology
+- Journal of Experimental Botony
