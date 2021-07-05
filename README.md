@@ -13,8 +13,8 @@ Manuscript will be submitted to the Journal of Experimental Biology's special is
 - JEB_commentary_figure.R - Data cleaning, and figure production.
 
 **Figure output**
-- Fig 1a - Database flowchat.
-- Fig 1b - Publication year.
+- Fig 1a - Database flowchat (Adobe Illustrator).
+- Fig 1b - Publication year (R/Adobe Illustrator).
 
 ## Abstract
 To include
