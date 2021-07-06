@@ -37,12 +37,12 @@ Number of papers published yearly (Jan 2014 - July 2021), grouped by 5 categorie
 - Experimental studies with a component of comparative studies.
 - Editorial comments.
 - Phylogenetic comparison with no formal analysis, or reviews which use/adapted phylogenetic trees from other studies. 
-- Methodology papers
+- Methodology papers.
 
 ## Journals included
 - Behavioural Ecology
 - Comparative Physiology
-- Journal of Comparative Physiology A
-- Journal of Comparative Physiology B
+- Journal of Comparative Physiology A - Neuroethology, Sensory, Neural, and Behavioral Physiology
+- Journal of Comparative Physiology B - Biochemical, Systems, and Environmental Physiology
 - Journal of Experimental Biology
 - Journal of Experimental Botany
