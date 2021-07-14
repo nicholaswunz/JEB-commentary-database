@@ -34,7 +34,7 @@ Number of papers published yearly (Jan 2014 - July 2021), grouped by 5 categorie
 
 ### Exclusion criteria
 - Simulation studies with no data obtained from the literature.
-- Experimental studies with a component of comparative studies.
+- Experimental studies (primary) with a component of comparative studies (secondary).
 - Editorial comments.
 - Phylogenetic comparison with no formal analysis, or reviews which use/adapted phylogenetic trees from other studies. 
 - Methodology papers.
