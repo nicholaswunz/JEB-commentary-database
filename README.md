@@ -34,15 +34,15 @@ Number of papers published yearly (Jan 2014 - July 2021), grouped by 5 categorie
 
 ### Exclusion criteria
 - Simulation studies with no data obtained from the literature.
-- Experimental studies (primary) with a component of comparative studies (secondary).
+- Experimental, field, or museum morphology studies (primary from the authors study) with a component of comparative studies (secondary from exisiting literature and database).
 - Editorial comments.
 - Phylogenetic comparison with no formal analysis, or reviews which use/adapted phylogenetic trees from other studies. 
 - Methodology papers.
 
 ## Journals included
-- Behavioural Ecology
 - Comparative Physiology
 - Journal of Comparative Physiology A - Neuroethology, Sensory, Neural, and Behavioral Physiology
 - Journal of Comparative Physiology B - Biochemical, Systems, and Environmental Physiology
 - Journal of Experimental Biology
 - Journal of Experimental Botany
+- Integrative and Comparative Biology
