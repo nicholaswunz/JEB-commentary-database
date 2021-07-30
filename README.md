@@ -14,9 +14,9 @@ Manuscript will be submitted to the Journal of Experimental Biology's special is
 - JEB_commentary_figure.R - Data cleaning, and figure production.
 
 **Figure output**
-- Fig 1 - Database flowchart (Adobe Illustrator).
+- Fig 1 - Database development flowchart (Adobe Illustrator).
 - Fig 2 - Publication year (R/Adobe Illustrator).
-- Fig 3 - Database strucure (Powerpoint).
+- Fig 3 - Database structure (Powerpoint).
 
 ## Abstract
 To include
