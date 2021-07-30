@@ -1,4 +1,4 @@
-# JEB commentary database
+# JEB database commentary
 
 This repository contains code and data needed to reproduce the figures in the article:
 
@@ -33,6 +33,8 @@ Number of papers published yearly (Jan 2014 - July 2021), grouped by 5 categorie
 (4) **comparative data articles** – Studies with formal statistical analysis, but no systematic search criteria (e.g., PRISMA, search criteria);
 
 (5) **phylogenetic comparative articles** – Similar to comparative data articles, with the inclusion of phylogenetic analysis.
+
+Quantitative and comparative reviews were counted by JR, NCW, and JDK.
 
 ### Exclusion criteria
 - Simulation studies with no data obtained from the literature.
