@@ -8,7 +8,7 @@ Manuscript will be submitted to the Journal of Experimental Biology's special is
 
 **Raw data**
 - JEB_data.csv - JEB meta-data of quantitative and comparative papers from six specialist journals (2014-2021) used for figure production.
-- Noble_artcles.csv - Meta-data of meta-analysis papers published from the literature, extracted by [Dan Noble](https://github.com/daniel1noble) (daniel.noble@anu.edu.au).
+- Noble_artcles.csv - Meta-data of meta-analysis papers published from the literature were obtained from [Dan Noble](https://github.com/daniel1noble/meta_physiology).
 
 **R code**
 - JEB_commentary_figure.R - Data cleaning, and figure production.
