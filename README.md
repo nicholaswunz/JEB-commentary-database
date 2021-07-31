@@ -15,7 +15,8 @@ Manuscript will be submitted to the Journal of Experimental Biology's special is
 
 **Figure output**
 - Fig 1 - Database development flowchart (Adobe Illustrator).
-- Fig 2 - Publication year (R/Adobe Illustrator).
+- Fig 2a - Publication year (R/ Adobe Illustrator).
+- Fig 3b - Screened search (Excel/ Adobe Illustrator).
 - Fig 3 - Database structure (Powerpoint).
 
 ## Abstract
