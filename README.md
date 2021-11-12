@@ -45,7 +45,7 @@ Quantitative and comparative reviews were counted by JR, NCW, and JDK.
 - Methodology papers.
 
 ## Journals included
-Journals included in the search was decided by the authors of the commentary. This is by no means comphrehensive, and represents example journals in their respective field.
+Journals included in the search were decided by the authors of the commentary. This is by no means comprehensive and represents example journals in their respective field.
 
 - Comparative Physiology
 - Journal of Comparative Physiology A - Neuroethology, Sensory, Neural, and Behavioral Physiology
