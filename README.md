@@ -2,7 +2,7 @@
 
 This repository contains code and data needed to reproduce the figures in the article:
 
-**Schwanz L. E., Gunderson, A., Iglesias-Carrasco M., Johnson M. A., Kong J. D., Riley J., & Wu N. C.** Best practices for building and curating databases for comparative analyses (Accepted) *Journal of Experimental Biology*
+**Schwanz L. E., Gunderson, A., Iglesias-Carrasco M., Johnson M. A., Kong J. D., Riley J., & Wu N. C.** (Accepted) Best practices for building and curating databases for comparative analyses. *Journal of Experimental Biology*
 
 Manuscript accetped for the Journal of Experimental Biology's special issue "*Building New Paradigms in Comparative Physiology and Biomechanics*".
 
