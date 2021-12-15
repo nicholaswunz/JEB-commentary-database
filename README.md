@@ -2,9 +2,9 @@
 
 This repository contains code and data needed to reproduce the figures in the article:
 
-**Schwanz et al.** Best practices for building and curating databases for comparative analyses (in submission) *Journal of Experimental Biology*
+**Schwanz et al.** Best practices for building and curating databases for comparative analyses (Accepted) *Journal of Experimental Biology*
 
-Manuscript will be submitted to the Journal of Experimental Biology's special issue "*Building New Paradigms in Comparative Physiology and Biomechanics*".
+Manuscript accetped for the Journal of Experimental Biology's special issue "*Building New Paradigms in Comparative Physiology and Biomechanics*".
 
 **Raw data**
 - JEB_data.csv - JEB meta-data of quantitative and comparative papers from six specialist journals (2014-2021) used for figure production.
