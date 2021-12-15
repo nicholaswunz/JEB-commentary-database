@@ -25,15 +25,15 @@ Comparative analyses have a long history of macro-ecological and -evolutionary a
 ## Meta-data
 Number of papers published yearly (Jan 2014 - July 2021), grouped by 5 categories: (1) meta-analyses, (2) comparative literature reviews, (3) systematic reviews, (4) comparative data articles, and (5) phylogenetic comparative articles. All categories involve collecting data from the literature or existing databases. Description for each category as below:
 
-(1) **meta-analyses** – Studies with formal statistical analysis and conducted systematic search following PRISMA or description of search criteria;
+(1) **meta-analyses**: Studies with formal statistical analysis and conducted systematic search following PRISMA or description of search criteria;
 
-(2) **comparative literature reviews** – Reviews with no formal analysis and no systematic search criteria (e.g., PRISMA, search criteria);
+(2) **comparative literature reviews**: Reviews with no formal analysis and no systematic search criteria (e.g., PRISMA, search criteria);
 
-(3) **systematic reviews** – Reviews with no formal analysis, but conducted a systematic search following PRISMA or description of search criteria;
+(3) **systematic reviews**: Reviews with no formal analysis, but conducted a systematic search following PRISMA or description of search criteria;
 
-(4) **comparative data articles** – Studies with formal statistical analysis, but no systematic search criteria (e.g., PRISMA, search criteria);
+(4) **comparative data articles**: Studies with formal statistical analysis, but no systematic search criteria (e.g., PRISMA, search criteria);
 
-(5) **phylogenetic comparative articles** – Similar to comparative data articles, with the inclusion of phylogenetic analysis.
+(5) **phylogenetic comparative articles**: Similar to comparative data articles, with the inclusion of phylogenetic analysis.
 
 Quantitative and comparative reviews were counted by JR, NCW, and JDK.
 
@@ -53,3 +53,9 @@ Journals included in the search were decided by the authors of the commentary. T
 - Journal of Experimental Biology
 - Journal of Experimental Botany
 - Integrative and Comparative Biology
+
+## Author links
+- Alex Gunderson: [Twitter](https://twitter.com/gunderwhelming).
+- Michele A. Johnson: [Twitter](https://twitter.com/lizardmichele).
+- Jacinta D Kong: [Github](https://github.com/jacintak), [Twitter](https://twitter.com/jacintakong).
+- Julia Riley: [Github](https://github.com/julia-riley), [Twitter](https://twitter.com/jr4science).
