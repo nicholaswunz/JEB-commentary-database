@@ -59,3 +59,4 @@ Journals included in the search were decided by the authors of the commentary. T
 - Michele A. Johnson: [Twitter](https://twitter.com/lizardmichele).
 - Jacinta D Kong: [Github](https://github.com/jacintak), [Twitter](https://twitter.com/jacintakong).
 - Julia Riley: [Github](https://github.com/julia-riley), [Twitter](https://twitter.com/jr4science).
+- Nicholas C Wu: [Github](https://github.com/nicholaswunz), [Twitter](https://twitter.com/nicholaswunz).
