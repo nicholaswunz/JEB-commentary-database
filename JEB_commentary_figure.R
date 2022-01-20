@@ -1,9 +1,6 @@
 # Install and load packages
 library(ggplot2)
-library(cowplot)
 library(dplyr) 
-library(tidyr)
-library(colorspace)
 library(ggbreak)
 
 # Set directory
