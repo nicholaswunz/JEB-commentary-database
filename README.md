@@ -4,11 +4,11 @@ This repository contains code and data needed to reproduce the figures in the ar
 
 **Schwanz L. E., Gunderson, A., Iglesias-Carrasco M., Johnson M. A., Kong J. D., Riley J., & Wu N. C.** (Accepted) Best practices for building and curating databases for comparative analyses. *Journal of Experimental Biology*
 
-Manuscript accepted for the Journal of Experimental Biology's special issue "*Building New Paradigms in Comparative Physiology and Biomechanics*".
+Manuscript published for the Journal of Experimental Biology's 2022 special issue "*Building New Paradigms in Comparative Physiology and Biomechanics*".
 
 **Raw data**
 - JEB_data.csv - JEB meta-data of quantitative and comparative papers from six specialist journals (2014-2021) used for figure production.
-- Noble_artcles.csv - Meta-data of meta-analysis papers published from the literature were obtained from [Dan Noble](https://github.com/daniel1noble/meta_physiology).
+- Noble_articles.csv - Meta-data of meta-analysis papers published from the literature were obtained from [Dan Noble](https://github.com/daniel1noble/meta_physiology).
 
 **R code**
 - JEB_commentary_figure.R - Data cleaning, and figure production.
