@@ -54,6 +54,9 @@ Journals included in the search were decided by the authors of the commentary. T
 - Journal of Experimental Botany
 - Integrative and Comparative Biology
 
+## License
+This repository is provided by the authors under the [MIT](https://opensource.org/licenses/MIT) License.
+
 ## Author links
 - Alex Gunderson: [Twitter](https://twitter.com/gunderwhelming).
 - Michele A. Johnson: [Twitter](https://twitter.com/lizardmichele).
