@@ -2,9 +2,10 @@
 
 This repository contains code and data needed to reproduce the figures in the article:
 
-**Schwanz L. E., Gunderson, A., Iglesias-Carrasco M., Johnson M. A., Kong J. D., Riley J., & Wu N. C.** (Accepted) Best practices for building and curating databases for comparative analyses. *Journal of Experimental Biology*
+**Schwanz L. E., Gunderson, A., Iglesias-Carrasco M., Johnson M. A., Kong J. D., Riley J., & Wu N. C.** (2022) Best practices for building and curating databases for comparative analyses. *Journal of Experimental Biology*, **225**, jeb243295. DOI:
+[![DOI](https://zenodo.org/badge/DOI/10.1242/jeb.243295.svg)](https://doi.org/10.1242/jeb.243295)
 
-Manuscript published for the Journal of Experimental Biology's 2022 special issue "*Building New Paradigms in Comparative Physiology and Biomechanics*".
+Manuscript published for the Journal of Experimental Biology's 2022 special issue "[*Building New Paradigms in Comparative Physiology and Biomechanics*](https://journals.biologists.com/jeb/issue/225/Suppl_1)".
 
 **Raw data**
 - `JEB_data.csv` - JEB meta-data of quantitative and comparative papers from six specialist journals (2014-2021) used for figure production.
